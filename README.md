@@ -1,1 +1,2 @@
-# QA-QAstionaire initial prototype, the idea is to be able to use the actual ISTQB Fountation level exams to create a custom questionaire for user training, for now I'm learning how to automate the fetching of the questions via scripting, currently the questions stored in the .sql are similar but LLM generated.
+# QA-QAstionaire
+Initial prototype, the idea is to be able to use the actual ISTQB Fountation level exams to create a custom questionaire for user training, for now I'm learning how to automate the fetching of the questions via scripting, currently the questions stored in the .sql are similar but LLM generated.
